@@ -8,3 +8,5 @@ just uses sha256 hashes, so you could easily get different number formats from t
 uses mongodb to store all information, im not super good with databases lol
 
 check.js is a code example you would give to the client to check the game results.
+
+[![Run on Repl.it](https://repl.it/badge/github/samplics/basic-pf-system)](https://repl.it/github/samplics/basic-pf-system)
